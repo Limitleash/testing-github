@@ -2,8 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<time.h>
-
-//butuh file processing untuk edit nodenya
+//Test
 struct TimeS
 {
    char day[40];
